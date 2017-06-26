@@ -1,5 +1,5 @@
 # Dictionaries
-File format: XML file
+File format: XML file<br>
 Includes: Filipino Language (more coming soon)
 
 # Official Company Website
