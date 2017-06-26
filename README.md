@@ -1,5 +1,6 @@
-# FilipinoDictionary
+# Dictionaries
 File format: XML file
+Includes: Filipino Language (more coming soon)
 
 # Official Company Website
 http://www.usbong.ph
