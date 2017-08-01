@@ -1,6 +1,9 @@
 # Dictionaries
 File format: XML<br>
-Includes: Filipino Language (more coming soon)
+Includes: <br>
+1) Filipino Language <br>
+2) Ilonggo Language <br><br>
+More coming soon<br>
 
 # Official Company Website
 http://www.usbong.ph
