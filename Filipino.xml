@@ -1503,11 +1503,11 @@
 	<string name="mundong">mundong; noun; root word: mundo; means: world</string>		
 	<string name="mundo">mundo; noun; means: world</string>		
 	<string name="ginagalawan">ginagalawan; verb; root word: galaw; means: move</string>		
-	<string name="namumuhay">namumuhay; verb; root word: buhay; means: lives</string>	
-	<string name="hinahayaan">hinahayaan; verb; root word: hayaan; means: lets them be</string>	
-	<string name="ibinubulong">ibinubulong; verb; root word: bulong; means: whispers</string>	
-	<string name="sira">sira; noun; means: nuts (not in one's right frame of mind)</string>	
-	<string name="humina">humina; verb; root word: hina; means: weakened</string>	
-	<string name="maski">maski; adverb; means: even </string>	
-	<string name="taga-roon">taga-roon; noun; means: those (who are from there)</string>	
+	<string name="namumuhay">namumuhay; verb; root word: buhay; means: lives</string>		
+	<string name="hinahayaan">hinahayaan; verb; root word: hayaan; means: let's them be</string>		
+	<string name="ibinubulong">ibinubulong; verb; root word: bulong; means: whispers</string>		
+	<string name="sira">sira; noun; means: nuts (lost one's mind)</string>		
+	<string name="humina">humina; noun; means: weakened</string>		
+	<string name="maski">maski; noun; means: even</string>		
+	<string name="taga-roon">taga-roon; noun; means: people from there</string>			
 </resources>
