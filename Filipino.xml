@@ -1510,4 +1510,12 @@
 	<string name="humina">humina; noun; means: weakened</string>		
 	<string name="maski">maski; noun; means: even</string>		
 	<string name="taga-roon">taga-roon; noun; means: people from there</string>			
+	<string name="himpapawid">himpapawid; noun; means: sky</string>			
+	<string name="nagmumuni">nagmumuni; verb; root word: muni; means: to think/ponder</string>			
+	<string name="makikita">makikita; verb; root word: kita; means: can see</string>			
+	<string name="magagawa">magagawa; verb; root word: gawa; means: can do</string>			
+	<string name="ibaba">ibaba; noun; means: down/below</string>			
+	<string name="gustong">gustong; verb; root word: gusto; means: want</string>			
+	<string name="gusto">gusto; verb; means: want</string>
+	<string name="maparoon">maparoon; verb; root word: mapunta roon; means: go there</string>
 </resources>
