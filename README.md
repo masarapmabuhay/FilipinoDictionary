@@ -3,6 +3,8 @@ File format: XML<br>
 Includes: <br>
 1) Filipino Language <br>
 2) Ilonggo Language <br><br>
+2) Chinese Mandarin Language <br><br>
+
 More coming soon<br>
 
 # Official Company Website
