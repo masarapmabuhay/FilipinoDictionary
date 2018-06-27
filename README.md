@@ -1,17 +1,12 @@
 # Dictionaries
-File format: XML<br>
-Includes: <br>
-1) Filipino Language <br>
-2) Ilonggo Language <br>
-2) Chinese Mandarin Language <br>
-
-More coming soon<br>
+File format: XML, SQL, PDF<br>
+Languages/Dialects: Filipino, Ilonggo, Chinese Mandarin, Hokkien
 
 # Official Company Website
 http://www.usbong.ph
 
 # Open Source Software License
-Copyright 2017 Usbong Social Systems, Inc.
+Copyright 2017-2018 Usbong Social Systems, Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
